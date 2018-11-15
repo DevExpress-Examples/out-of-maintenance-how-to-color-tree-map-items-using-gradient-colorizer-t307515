@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/TreeMapGradientColorizerSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TreeMapGradientColorizerSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to color tree map items using Gradient Colorizer
 
 
